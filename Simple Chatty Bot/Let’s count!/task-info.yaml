@@ -96,5 +96,9 @@ files:
     print('Completed, have a nice day!')
   learner_created: false
 feedback_link: https://hyperskill.org/projects/97/stages/537/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/97/stages/537/implement">JetBrains
+    Academy</a>
+  time: Tue, 11 Aug 2020 13:42:08 UTC
 record: -1
